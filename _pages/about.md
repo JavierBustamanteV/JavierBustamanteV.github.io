@@ -18,7 +18,7 @@ Estas son las certificaciones que actualmente dispongo:
 - eJPT (eLearnSecurity Junior Penetration Tester)
 
 <p align="center">
-<img src="/assets/images/about/certs.jpeg">
+<img src="">
 </p>
 
 ## Experiencia
